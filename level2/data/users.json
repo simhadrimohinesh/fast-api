@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1001,
+    "username": "rahul_verma",
+    "email": "rahul.verma@example.com",
+    "age": 31,
+    "is_active": true,
+    "role": "user",
+    "city": "Delhi"
+  },
+  {
+    "id": 1002,
+    "username": "ananya_sharma",
+    "email": "ananya.sharma@example.com",
+    "age": 26,
+    "is_active": true,
+    "role": "admin",
+    "city": "Mumbai"
+  },
+  {
+    "id": 1003,
+    "username": "vikas_reddy",
+    "email": "vikas.reddy@example.com",
+    "age": 34,
+    "is_active": false,
+    "role": "user",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 1004,
+    "username": "priya_nair",
+    "email": "priya.nair@example.com",
+    "age": 28,
+    "is_active": true,
+    "role": "moderator",
+    "city": "Bangalore"
+  },
+  {
+    "id": 1005,
+    "username": "arjun_singh",
+    "email": "arjun.singh@example.com",
+    "age": 39,
+    "is_active": false,
+    "role": "admin",
+    "city": "Chandigarh"
+  }
+]
